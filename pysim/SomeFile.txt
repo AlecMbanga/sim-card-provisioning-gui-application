@@ -1,0 +1,22 @@
+Using PC/SC reader interface
+Ready for Programming: Insert card now (or CTRL-C to cancel)
+Autodetected card type: sysmoUSIM-SJS1
+Generated card parameters :
+ > Name     : Magic
+ > SMSP     : e1ffffffffffffffffffffffff0581005155f5ffffffffffff000000
+ > ICCID    : 8901901550000000120
+ > MCC/MNC  : 901/55
+ > IMSI     : 901550000000012
+ > Ki       : c4a3a2aaa8eb9dd7580947d513719bb0
+ > OPC      : 7537d2926407f0bf48fdcb789ad67e65
+ > ACC      : None
+ > ADM1(hex): None
+ > OPMODE   : None
+Programming ...
+
+Card programming failed with an exception:
+---------------------8<---------------------
+---------------------8<---------------------
+
+Programming failed: Remove card from reader
+
